@@ -10,6 +10,7 @@
     "start": "sanity start",
     "deploy": "sanity deploy",
     "sync": "sanity graphql deploy",
+    "build": "sanity build public -y",
     "test": "sanity check"
   },
   "keywords": [
