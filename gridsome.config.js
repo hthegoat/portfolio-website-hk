@@ -26,9 +26,9 @@ module.exports = {
         projectId: `${process.env.SANITY_PROJECT_ID}`,
         dataset: `${process.env.SANITY_DATASET}`,
         // comment out or delete the line below if you are not using a token
-        token: `${process.env.SANITY_TOKEN}`,
+        // token: `${process.env.SANITY_TOKEN}`,
         overlayDrafts: false,
-        watchMode: !isProd,
+        watchMode: process.env.NODE_ENV === 'development',
       },
     },
     {
