@@ -2,7 +2,7 @@
    <section class="text-gray-700 body-font">
             <div class="container px-8 mx-auto pt-12 lg:px-4">
                 <div class="flex flex-col w-full mx-auto mb-12 text-left lg:w-2/3 lg:text-center">
-                    <h1 class="mb-6 text- font-semibold tracking-tighter text-black sm:text-5xl title-font">
+                    <h1 class="mb-8 text-2xl font-bold tracking-tighter text-gray-700 sm:text-5xl title-font">
                        "In a data-driven world, marketing campaigns should be tailored to specific audiences with real data in mind."
                     </h1>
                     <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">
