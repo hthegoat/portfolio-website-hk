@@ -27,7 +27,7 @@ module.exports = {
         dataset: `${process.env.SANITY_DATASET}`,
         // comment out or delete the line below if you are not using a token
         token: `${process.env.SANITY_TOKEN}`,
-        overlayDrafts: !isProd,
+        overlayDrafts: false,
         watchMode: !isProd,
       },
     },
