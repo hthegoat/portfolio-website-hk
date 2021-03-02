@@ -8,3 +8,4 @@ dist
 .env.*
 
 src/assets/sanity/*
+.vercel
