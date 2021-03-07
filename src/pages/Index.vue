@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <AppBanner class="pb-1" heading="Harrison Kugler" subheading="start using:">
+    <AppBanner class="pb-1" heading="Harrison" subheading="start using:">
       
       
     </AppBanner>
