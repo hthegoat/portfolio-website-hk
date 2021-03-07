@@ -6,11 +6,11 @@ export default {
   "favicons": [
     {
       "width": 16,
-      "src": "/assets/static/favicon.ce0531f.d32aec04e2f964e2a0868247e121acde.png"
+      "src": "/assets/static/src/favicon.png?width=16&key=cc4882f"
     },
     {
       "width": 32,
-      "src": "/assets/static/favicon.ac8d93a.d32aec04e2f964e2a0868247e121acde.png"
+      "src": "/assets/static/src/favicon.png?width=32&key=cc4882f"
     }
   ]
 }

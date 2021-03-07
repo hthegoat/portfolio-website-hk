@@ -54,9 +54,7 @@
                         src="https://i.ibb.co/5Kkxjnx/DSC0764-4.jpg">
                 </div>
             </div>
-            
         </section>
-        
 </template>
 
 <script>
