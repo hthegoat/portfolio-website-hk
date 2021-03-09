@@ -8,7 +8,7 @@
                 </div>
                 <div
                     class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
-                <h1 class="mb-8 text-2xl font-bold tracking-tighter text-center text-black lg:text-left lg:text-2xl title-font">
+                <h1 class="mb-8 text-2xl font-bold tracking-tighter text-center text-blue-700 lg:text-left lg:text-2xl title-font">
                     I consider myself a generalist at the end of the day.</h1>
                 <p class="mb-8 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-1xl">I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
 
