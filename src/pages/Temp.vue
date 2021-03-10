@@ -11,7 +11,7 @@
                         <div class="flex flex-col items-start mx-auto mt-8 sm:flex-row sm:items-center">
                             <div
                                 class="flex flex-col items-center flex-grow mb-16 mr-64 text-left md:items-start md:text-left md:mb-0">
-                                <a href="./Project2/">
+                                <a href="./project2/">
                                 <h1
                                     class="mb-2 text-2xl font-semibold tracking-tighter text-left text-blue-700 sm:text-3xl title-font">
                                     Bury The Hatchet Case Study</h1></a>

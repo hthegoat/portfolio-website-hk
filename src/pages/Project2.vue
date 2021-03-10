@@ -503,7 +503,7 @@ a serious a media presence."</p>
 <script>
 export default {
     metaInfo: {
-    title: 'Project2',
+    title: 'project2',
   },
 }
 <script>
