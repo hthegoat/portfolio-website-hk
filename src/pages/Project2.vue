@@ -500,3 +500,10 @@ a serious a media presence."</p>
 </Layout>
 </template>
 
+<script>
+export default {
+    metaInfo: {
+    title: 'Project2',
+  },
+}
+<script>
