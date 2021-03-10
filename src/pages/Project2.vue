@@ -481,7 +481,7 @@ a serious a media presence."</p>
                                type="email"></input>
                         <button
                                 class="flex items-center px-6 py-2 mt-auto font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">
-                            Send Me An Email
+                            Send Me An Email!
                         </button>
                     </div>
                     <p class="w-full mt-2 mb-8 text-sm text-left text-gray-600">
