@@ -31,6 +31,8 @@ import AppNav from '@/components/AppNav.vue'
 import AppFooter from '@/components/AppFooter.vue'
 import ThemeToggle from '@/components/ThemeToggle.vue'
 
+
+
 export default {
   components: {
     AppNav,
