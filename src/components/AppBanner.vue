@@ -29,14 +29,14 @@
                                 <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" />
                             </svg></span>Average of 4x ROAS</p>
                     <div class="flex justify-center">
-                        <button
+                       <a href="/contact/"> <button
                             class="flex items-center px-6 py-2 mt-auto font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-800 hover:to-black focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">
                             Contact Me
-                        </button>
+                        </button></a>
                         <p class="mt-2 text-sm text-center text-gray-600 md:ml-6 md:mt-0 sm:text-left">
                             Take A Look At Some Of My Work
                             <br class="hidden lg:block">
-                            <a href="#"
+                            <a href="/temp/"
                                 class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-400 ">
                                 My Work
                                 <svg class="w-4 h-4 ml-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"

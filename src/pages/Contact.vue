@@ -14,18 +14,22 @@
 
       <h1 class="text-xl md:text-2xl font-bold leading-tight mt-12">This Has Been Fun!</h1>
 
-      <form class="mt-6" action="#" method="POST">
+      <form class="mt-6" action="2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
         <div>
-          <label class="block text-gray-700">Email Address</label>
-          <input type="email" name="" id="" placeholder="Enter Email Address" class="w-full px-4 py-3 rounded-lg bg-gray-200 mt-2 border focus:border-blue-500 focus:bg-white focus:outline-none" autofocus autocomplete required>
+          <label class="block text-gray-700">Name</label>
+          <input type="email" name="name" id="" placeholder="Name" class="w-full px-4 py-3 rounded-lg bg-gray-200 mt-2 border text-black focus:border-blue-500 focus:bg-white focus:outline-none" autofocus autocomplete required>
         </div>
 
         <div class="mt-4">
-          <label class="block text-gray-700">Message</label>
-          <input type="password" name="" id="" placeholder="What's Up" class="w-full h-3/4 px-4 py-3 rounded-lg bg-gray-200 mt-2 border focus:border-blue-500
+          <label class="block text-gray-700">Email</label>
+          <input type="email" name="email" id="" placeholder="Email" class="w-full h-3/4 px-4 py-3 rounded-lg bg-gray-200 mt-2 border text-black focus:border-blue-500
                 focus:bg-white focus:outline-none" required>
         </div>
-
+        <div class="mt-4">
+          <label class="block text-gray-700">Message</label>
+          <input type="message" name="message" id="" placeholder="What's Up" class="w-full h-3/4 px-4 py-3 rounded-lg bg-gray-200 mt-2 border text-black focus:border-blue-500
+                focus:bg-white focus:outline-none" required>
+        </div>
       
 
         <button type="submit" class="w-full block bg-black-700 hover:bg-black hover:text-white focus:bg-blue-400 text-blue-700 font-semibold rounded-lg

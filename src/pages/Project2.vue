@@ -7,7 +7,7 @@
                 </div>
                 <div
                     class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
-                    <h2 class="mb-1 text-xs font-medium tracking-widest text-black title-font">Case Study #01</h2>
+                    <h2 class="mb-1 text-xs font-medium tracking-widest text-blue-700 title-font">Case Study #01</h2>
                     <h1 class="mb-8 text-2xl font-bold tracking-tighter text-center text-blue-600 lg:text-left lg:text-5xl title-font">
                         Bury The Hatchet Case Study</h1>
                     <p class="mb-8 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-1xl">How I Took Them From No Digital Strategy to 400% ROAS + 2 million Tik Tok views</p>
