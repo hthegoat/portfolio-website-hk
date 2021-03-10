@@ -4,7 +4,7 @@
     
             <div class="container px-5 py-2 mx-auto lg:px-10">
                 <div class="flex flex-wrap py-8 md:flex-no-wrap">
-                    <div class="w-full "><a href="./Project2">
+                    <div class="w-full "><a href="./project2">
                         <img alt="image" style="height:400px;"
                             class="object-cover object-center w-full h-64 rounded-lg lg:h-auto"
                             src="https://i.ibb.co/jr6p0HJ/DSC02089.jpg"></a>
