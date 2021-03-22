@@ -89,4 +89,7 @@ export default {
 .blog-post-content {
   max-width: 1000px;
 }
+.blog-post-content li {
+  font-size: 1000px
+}
 </style>

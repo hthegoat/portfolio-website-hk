@@ -12,10 +12,10 @@
     <h2 class="font-bold mb-4 text-3xl text-center">Case Study #01</h2>
     <img src="https://i.ibb.co/jr6p0HJ/DSC02089.jpg" class="w-full justify-items-center" /></a>
     </section>
-    <section v-if="$page.posts.edges.length" class="mx-auto pt-10">
+   <!-- <section v-if="$page.posts.edges.length" class="mx-auto pt-10">
       <h2 class="font-bold mb-4 text-3xl text-center">Blog Posts</h2>
       <PostList :posts="$page.posts.edges" />
-    </section>
+    </section> -->
     <!-- <section v-if="$page.projects.edges.length" class="mx-auto pt-10">
       <h2 class="font-bold mb-4 text-3xl">Latest Project</h2>
       <ProjectList :projects="$page.projects.edges" />

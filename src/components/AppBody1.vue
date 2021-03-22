@@ -2,7 +2,7 @@
    <section class="text-gray-700 body-font">
             <div class="container px-8 mx-auto pt-12 lg:px-4">
                 <div class="flex flex-col w-full mx-auto mb-12 text-left lg:w-2/3 lg:text-center">
-                    <h1 class="mb-6 text- font-semibold tracking-tighter text-blue-700 sm:text-5xl title-font">
+                    <h1 class="mb-6 font-semibold tracking-tighter text-blue-700 sm:text-4xl title-font">
                        "In a data-driven world, marketing campaigns should be tailored to specific audiences with real data in mind."
                     </h1>
                     <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">
@@ -10,13 +10,13 @@
 </div>
                 </div>
                 
-               <form class="flex flex-col w-full px-0 mx-auto lg:w-2/3 sm:flex-row md:px-8" action="https://getform.io/f/2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
+               <form class="flex flex-col w-full px-0 mx-auto lg:w-1/3 lg:items-center sm:flex-auto md:px-8" action="https://getform.io/f/2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
 
                     <input
-                        class="flex-grow w-full px-4 py-2 mb-4 mr-4 text-base text-black transition duration-1000 ease-in-out transform rounded-lg bg-lGray focus:outline-none focus:border-purple-500 sm:mb-0 focus:bg-white focus:shadow-outline focus:ring-2 ring-offset-current ring-offset-2"
+                        class="flex-grow w-full px-4 py-2 mb-4 mr-4 text-base text-black transition duration-1000 ease-in-out transform rounded-lg bg-lGray focus:outline-none focus:border-purple-500 sm:mb-2 focus:bg-white focus:shadow-outline focus:ring-2 ring-offset-current ring-offset-2"
                         placeholder="Your Name" type="text" name="name">
                     <input
-                        class="flex-grow w-full px-4 py-2 mb-4 mr-4 text-base text-black transition duration-1000 ease-in-out transform rounded-lg bg-lGray focus:outline-none focus:border-purple-500 sm:mb-0 focus:bg-white focus:shadow-outline focus:ring-2 ring-offset-current ring-offset-2"
+                        class="flex-grow w-full px-4 py-2 mb-4 mr-4 text-base text-black transition duration-1000 ease-in-out transform rounded-lg bg-lGray focus:outline-none focus:border-purple-500 sm:mb-2 focus:bg-white focus:shadow-outline focus:ring-2 ring-offset-current ring-offset-2"
                         placeholder="Your Email" type="email" name="email">
                     <button
                         class="w-1/2 px-8 py-2 font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Send It</button>

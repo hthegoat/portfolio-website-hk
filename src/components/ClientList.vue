@@ -5,10 +5,10 @@
                 <h1 class="mb-6 text-2xl font-semibold text-blue-800 title-font">
                     Companies I've 
                     <br class="md:hidden">
-                    worked with.
+                    worked with:
                 </h1>
             </div>
-            <div class="grid grid-cols-3 gap-16 my-16 text-center lg:grid-cols-6">
+            <div class="grid grid-cols-3 gap-16 my-16 text-center lg:grid-cols-6 sm:grid-cols-1 sm:mb-1">
                 <div class="flex items-center justify-center ">
                     <img src="https://ecosystemsnj.com/wp-content/uploads/2019/12/Group-19462.png"
                         alt="Todoist Logo" class="block object-contain h-16" >

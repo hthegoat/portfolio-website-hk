@@ -8,16 +8,13 @@
                         <img alt="image" style="height:400px;"
                             class="object-cover object-center w-full h-64 rounded-lg lg:h-auto"
                             src="https://i.ibb.co/jr6p0HJ/DSC02089.jpg"></a>
-                        <div class="flex flex-col items-start mx-auto mt-8 sm:flex-row sm:items-center">
+                        <div class="flex flex-col items-start mx-auto mt-8 sm:flex-grow">
                             <div
-                                class="flex flex-col items-center flex-grow mb-16 mr-64 text-left md:items-start md:text-left md:mb-0">
+                                class="flex flex-col items-center flex-grow mb-16 mr-64 text-left sm:w-full md:items-start md:text-left md:mb-0">
                                 <a href="/project2/">
-                                <h1
-                                    class="mb-2 text-2xl font-semibold tracking-tighter text-left text-blue-700 sm:text-3xl title-font">
+                                <h1 class="mb-2 text-2xl font-semibold tracking-tighter text-left text-blue-700 sm:text-2xl title-font">
                                     Bury The Hatchet Case Study</h1></a>
-                                <p
-                                    class="mb-8 text-base leading-relaxed text-center text-gray-900 lg:text-left lg:text-1xl">
-                                    Recent Return On Ad Spend</p>
+                               
                             </div>
                         </div>
                     </div>

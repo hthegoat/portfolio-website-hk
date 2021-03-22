@@ -1,7 +1,7 @@
 
 <template>
   <section class="text-gray-700 body-font">
-            <div class="container px-8 pt-24 pb-24 mx-auto lg:px-4">
+            <div class="container px-8 pt-24 pb-24 mx-auto lg:px-4 sm:mb-0 sm:px-2">
                 <div class="flex flex-wrap -m-4">
                     <div class="p-8 mx-auto mb-6 lg:w-1/3 lg:mb-0">
                         <div class="h-full text-left">

@@ -14,10 +14,10 @@
 
       <h1 class="text-xl md:text-2xl font-bold leading-tight mt-12">This Has Been Fun!</h1>
 
-      <form class="mt-6" action="2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
+      <form class="mt-6" action="https://getform.io/f/2a956545-1194-4d2c-bfdd-72b9b157032e" method="POST">
         <div>
           <label class="block text-gray-700">Name</label>
-          <input type="email" name="name" id="" placeholder="Name" class="w-full px-4 py-3 rounded-lg bg-gray-200 mt-2 border text-black focus:border-blue-500 focus:bg-white focus:outline-none" autofocus autocomplete required>
+          <input type="name" name="name" id="" placeholder="Name" class="w-full px-4 py-3 rounded-lg bg-gray-200 mt-2 border text-black focus:border-blue-500 focus:bg-white focus:outline-none" autofocus autocomplete required>
         </div>
 
         <div class="mt-4">
