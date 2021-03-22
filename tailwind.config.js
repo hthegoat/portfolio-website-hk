@@ -11,6 +11,14 @@ module.exports = {
     content: ['./src/**/*.html', './src/**/*.vue', './src/**/*.jsx'],
   },
   theme: {
+    screens: {
+      'sm': '400px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+      '2xl': '1536px',
+    },
+
     colors: {
       primary: 'var(--color-primary)',
       secondary: 'var(--color-secondary)',
@@ -51,6 +59,8 @@ module.exports = {
     },
     extend: {
       screens: {
+
+
         xxl: remCalc(1600),
       },
     },
