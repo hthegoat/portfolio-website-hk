@@ -20,7 +20,7 @@
                         class="w-1/2 px-8 py-2 font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Send It</button>
                 </form>
 
-                <p class="w-full mt-12 mb-8 text-sm text-center text-gray-500">Read About My Work <a href="#"
+                <p class="w-full mt-12 mb-8 text-sm text-center text-gray-500">Read About My Work <a href="/Project2/"
                         class="inline-flex items-center font-semibold text-blue-700 mx-5 md:mb-2 lg:mb-0 hover:text-blue-400 ">
                         Check It Out
                         <svg class="w-4 h-4 ml-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20"
