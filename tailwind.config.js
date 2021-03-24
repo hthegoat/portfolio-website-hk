@@ -12,7 +12,7 @@ module.exports = {
   },
   theme: {
     screens: {
-      'sm': '400px',
+      'sm': '200px',
       'md': '768px',
       'lg': '1024px',
       'xl': '1280px',
