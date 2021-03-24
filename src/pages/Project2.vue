@@ -2,7 +2,7 @@
 <Layout>
       <section class="text-gray-700 body-font">
             <div class="container flex flex-col items-center px-5 py-16 mx-auto lg:px-20 lg:py-24 md:flex-row">
-                <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0">
+                <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 sm:w-full" >
                     <img class="object-cover object-center rounded" alt="hero" src="https://images.unsplash.com/photo-1579382947008-101d110d345f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
                 </div>
                 <div
@@ -19,9 +19,9 @@
                 </div>
             </div>
             <!-- Next Section -->
-             <div class="container px-8 mx-auto pt-2 lg:px-4">
-                <div class="flex flex-col w-full mb-4 text-left lg:text-center">
-                <h1 class="mb-6 text-5xl font-semibold tracking-tighter text-center text-blue-700 sm:text-6xl title-font">
+             <div class="container px-8 mx-auto pt-2 lg:px-4 sm:px-4">
+                <div class="flex flex-col w-full mb-4 text-center lg:text-center">
+                <h1 class="mb-6 text-5xl font-semibold tracking-tighter text-center text-blue-700 sm:text-center title-font">
                      
                        The  Challenge
                     </h1>
@@ -31,7 +31,7 @@
                         <img class="object-cover object-center rounded" alt="hero" src="https://i.ibb.co/CbX4jXQ/My-Post-31.png">
                     </div>
                    
-                    <p class="mx-auto container w-full flex flex-col text-base text-2xl font-medium leading-relaxed text-gray-700 lg:w-1/2">
+                    <p class="mx-auto container w-full flex flex-col text-base text-2xl font-medium leading-relaxed text-gray-700 lg:w-1/2 sm:p-0 smsm:text-base">
                     With stagnant booking numbers, BTH wanted to drive more brand awareness, create content, and create an actionable marketing strategy.
                     Competing with new axe throwing venues, BTH's positioning had been diluted in certain areas.Going into this project, Bury The Hatchet had no actionable content or marketing strategy for the 12 national locations.
                     </p>
@@ -43,7 +43,7 @@
                     <img class="object-cover object-center rounded" alt="hero" src="https://i.ibb.co/xqmWbwV/70896114-10216992796424913-2923185300349911040-o-1.jpg">
                 </div>
                 <div
-                    class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
+                    class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items- md:text-left">
                     <p class="mb-2 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-xl">
                         “Before Harrison we were boosting posts like most of our competitors. When he came on, his first directive was to install and setup attribtution to track the success of the campaigns. At first I did not know if this would make a difference, within a few months I was completely on board and understood the competitive advantage we immediately had."</p>
                         <h2 class="my-6 text-sm font-medium tracking-wider text-gray-900 title-font">Howard Klotzkin
@@ -63,7 +63,8 @@
                     <h1 class="mb-6 text-5xl font-semibold tracking-tighter text-blue-700 sm:text-6xl title-font">
                         My Work + Proccess 
                     </h1>
-                    <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-1/2">The team at BTH wanted to position themselves as a premium destination —safe, clean,
+                    <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-1/2">
+The team at BTH wanted to position themselves as a premium destination —safe, clean,
 and fun. After in depth research into their competition and the industry, we worked
 together to come up with location specific strategies to approach this project with.
 One of the first steps taken was to install backend data infrastructure to track online
