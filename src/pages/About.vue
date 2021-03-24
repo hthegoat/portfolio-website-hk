@@ -2,8 +2,8 @@
   <Layout>
     <section class="text-gray-700 body-font">
             <div class="container flex flex-col items-center px-5 py-16 mx-auto lg:px-20 lg:py-24 md:flex-row">
-                <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 sm:w-full">
-                    <img class="object-cover object-center rounded" alt="hero"
+                <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 sm:w-380 sm:mb-5">
+                    <img class="object-cover object-center rounded " alt="hero"
                         src="https://i.ibb.co/qxJ3pdW/DSC8269.jpg">
                 </div>
                 <div
