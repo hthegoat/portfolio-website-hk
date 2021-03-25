@@ -8,7 +8,7 @@
                     worked with:
                 </h1>
             </div>
-            <div class="grid grid-cols-3 gap-16 my-16 text-center lg:grid-cols-6 sm:grid-cols-1 sm:mb-1">
+            <div class="grid grid-cols-3 gap-16 my-16 text-center lg:grid-cols-3 sm:grid-cols-1 sm:mb-1">
                 <div class="flex items-center justify-center ">
                     <img src="https://ecosystemsnj.com/wp-content/uploads/2019/12/Group-19462.png"
                         alt="Todoist Logo" class="block object-contain h-16" >
@@ -26,7 +26,7 @@
                         alt="logo" class="block object-contain h-16" >
                 </div>
                 <div class="flex items-center justify-center ">
-                    <img src="http://ustoritseneca.com/assets/images/g24.png"
+                    <img src="https://i.ibb.co/17hX6fF/cropped-10849606-dm-logo-image-yg-X9-selfgrowth-sitewidepngpng-duda-lg-crp.png"
                         alt="logo" class="block object-contain h-16" >
                 </div>
                 <div class="flex items-center justify-center ">
