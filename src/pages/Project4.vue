@@ -29,7 +29,7 @@
 <script>
 export default {
     metaInfo: {
-    title: 'project1',
+    title: 'project4',
   },
  
 }

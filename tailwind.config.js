@@ -58,6 +58,9 @@ module.exports = {
       },
     },
     extend: {
+      animation: {
+
+      },
       screens: {
 
 

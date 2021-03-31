@@ -1,27 +1,40 @@
 <template>
 <Layout>
       <section class="text-gray-700 body-font">
-            <div class="container flex flex-col items-center px-5 py-16 mx-auto lg:px-20 lg:py-24 md:flex-row">
+            <div class="container flex flex-col items-center px-5 py-8 mx-auto lg:px-20 lg:py-32 md:flex-row">
                 <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 sm:w-full" >
                     <img class="object-cover object-center rounded" alt="hero" src="https://images.unsplash.com/photo-1579382947008-101d110d345f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
                 </div>
-                <div
-                    class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
-                    <h2 class="mb-1 text-xs font-medium tracking-widest text-blue-700 title-font">Case Study #01</h2>
+                <div class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
+                    <h2 class="mb-1 text-xs font-medium tracking-widest text-blue-700 title-font">
+                    Case Study #01
+                    </h2>
                     <h1 class="mb-8 text-2xl font-bold tracking-tighter text-center text-blue-600 lg:text-left lg:text-5xl title-font">
-                        Bury The Hatchet Case Study</h1>
-                    <p class="mb-8 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-1xl">How I Took Them From No Digital Strategy to 400% ROAS + 2 million Tik Tok views</p>
-                    <div class="flex justify-center">
-                        
-                        
-                    </div>
+                        Bury The Hatchet Case Study
+                    </h1>
+                    <p class="mb-2 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-1xl">
+                        How I Took Them From No Digital Strategy to 400% ROAS + 2 million Tik Tok views
+                    </p>
+                    <a href="#Problem">
+                 <svg 
+                 xmlns="http://www.w3.org/2000/svg" 
+                 fill="none" 
+                 class="animate-bounce mx-5 my-10"
+                 viewBox="0 0 24 24" 
+                 width="120"
+                 height="120"
+                 stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 13l-3 3m0 0l-3-3m3 3V8m0 13a9 9 0 110-18 9 9 0 010 18z" />
+</svg></a>
                 </div>
+                  
                 </div>
             </div>
+        
             <!-- Next Section -->
              <div class="container px-8 mx-auto pt-2 lg:px-4 sm:px-4">
                 <div class="flex flex-col w-full mb-4 text-center lg:text-center">
-                <h1 class="mb-6 text-5xl font-semibold tracking-tighter text-center text-blue-700 sm:text-center title-font">
+                <h1 name="Problem" class="mb-6 text-5xl font-semibold tracking-tighter text-center text-blue-700 sm:text-center title-font">
                      
                        The  Challenge
                     </h1>
@@ -490,10 +503,15 @@ a serious a media presence."</p>
 </template>
 
 <script>
+import { ArrowDownCircleIcon } from 'vue-feather-icons'
+
 export default {
     metaInfo: {
     title: 'project2',
   },
+  components: {
+    ArrowDownCircleIcon
+  }
  
 }
 <script>

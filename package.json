@@ -8,6 +8,7 @@
     "start": "yarn run develop"
   },
   "dependencies": {
+    "@heroicons/vue": "^1.0.0",
     "@noxify/gridsome-plugin-remote-image": "^1.3.0",
     "@sanity/image-url": "^0.140.19",
     "@tailwindcss/forms": "^0.2.1",
@@ -19,7 +20,9 @@
     "postcss": "^8.1.14",
     "sanity-blocks-vue-component": "^0.1.0",
     "tailwindcss": "^2.0.1",
-    "vue-feather-icons": "^5.1.0"
+    "vue-feather-icons": "^5.1.0",
+    "vue-meta": "^2.4.0",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",

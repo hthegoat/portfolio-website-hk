@@ -6,7 +6,7 @@
                     <div class="w-full ">
                         <img alt="image" style="height:400px;"
                             class="object-cover object-center w-full h-64 rounded-lg lg:h-auto"
-                            src="https://1.bp.blogspot.com/-9bp1tkfMPf8/YCq3Z1gydWI/AAAAAAAAtbY/5hGisgPGtAkISyjB9M7fmnVCJhvic-5OwCLcBGAsYHQ/s2048/Stress%2BFactory%2BNew%2BBrunswick%2Boutdoor%2Btent%2B1.jpeg">
+                            src="https://i.ibb.co/dQ7Xtw0/DSC00355.jpg">
                         <div class="flex flex-col items-start mx-auto mt-8 sm:flex-row sm:items-center">
                             <div
                                 class="flex flex-col items-center flex-grow mb-16 mr-64 text-left md:items-start md:text-left md:mb-0">
@@ -29,7 +29,7 @@
 <script>
 export default {
     metaInfo: {
-    title: 'project1',
+    title: 'project3',
   },
  
 }

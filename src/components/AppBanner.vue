@@ -5,7 +5,7 @@
                         class="flex flex-col items-center w-full pt-0 mb-16 text-left lg:flex-grow sm:items-start md:w-1/2 xl:mr-20 md:pr-24 md:items-start md:text-left md:mb-0 lg:text-center">
                     
                     <h1 class="mb-8 text-2xl font-bold tracking-tighter text-center text-gray-700 lg:text-left lg:text-5xl sm:text-3xl title-font">
-                       Entrepreneur & Performance Marketer
+                       Marketing Professional & Crypto Enthusiast 
                     </h1>
                     <p class="mb-8 text-base leading-relaxed text-center text-gray-700 lg:text-left lg:text-1xl">
                         I am a freelance marketing professional with experience in multiple industries. I work with clients to develop actionable marketing campaigns that convert and drive sales.
@@ -22,12 +22,19 @@
                                 <path fill="none" d="M0 0h24v24H0z" />
                                 <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" />
                             </svg></span>10 million impressions</p>
-                    <p class="flex items-left mb-6 text-gray-600"><span
+                    <p class="flex items-left mb-2 text-gray-600"><span
                             class="inline-flex items-left flex-shrink-0 w-6 h-6 mr-2 rounded-full">
                             <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
                                 <path fill="none" d="M0 0h24v24H0z" />
                                 <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" />
                             </svg></span>Average of 4x ROAS</p>
+                        <p class="flex items-left mb-6 text-gray-600"><span
+                            class="inline-flex items-left flex-shrink-0 w-6 h-6 mr-2 rounded-full">
+                            <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                                <path fill="none" d="M0 0h24v24H0z" />
+                                <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" />
+                            </svg></span>Cryptocurrency Investor & Enthusiast Since 2016</p>
+                       
                     <div class="flex justify-center">
                        <a href="/contact/"> <button
                             class="flex items-center px-6 py-2 mt-auto font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-800 hover:to-black focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">
@@ -52,13 +59,17 @@
                 <div class="w-5/6 lg:max-w-xl lg:w-full md:w-1/2 sm:w-max">
                     <img class="object-cover object-center rounded-lg " alt="hero"
                         src="https://i.ibb.co/5Kkxjnx/DSC0764-4.jpg">
+                        
                 </div>
+                
             </div>
+            <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#fcb900" lcw-marquee-1="coins" lcw-marquee-2="coins" lcw-marquee-items="10" ></div>
         </section>
 </template>
 
 <script>
 import AppLogo from '@/assets/images/akarui-logo.svg?inline'
+
 
 export default {
   components: {
@@ -67,6 +78,11 @@ export default {
   props: {
     heading: String,
     subheading: String,
+  },
+  mounted() {
+    let externalScript = document.createElement('script')
+    externalScript.setAttribute('src', 'https://www.livecoinwatch.com/static/lcw-widget.js')
+    document.head.appendChild(externalScript)
   },
 }
 </script>
