@@ -3,7 +3,7 @@
             <div class="container px-8 mx-auto pt-12 lg:px-4">
                 <div class="flex flex-col w-full mx-auto mb-12 text-left lg:w-2/3 lg:text-center">
                     <h1 class="mb-6 font-semibold tracking-tighter text-blue-700 sm:text-4xl title-font">
-                       In a data-driven world, marketing campaigns need to use a more sophisticated data-first approach to compete on the top platforms.
+                       "In a data-driven world, marketing campaigns should be tailored to specific audiences with real data in mind."
                     </h1>
                     <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">
                     In the past three years, I have managed $375k in ad spend for clients, generating $1.5 million total in new revenue. Freelance work has allowed me to learn multiple industries which allows me to tailor my approach to your business.</p>

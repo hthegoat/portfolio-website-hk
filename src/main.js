@@ -2,7 +2,6 @@ import 'fontsource-inter'
 import 'fontsource-inter/600.css'
 import 'fontsource-inter/700.css'
 import 'fontsource-inter/900.css'
-import 'vue-meta' 
 
 import '@/assets/styles/tailwind.css'
 import '@/assets/styles/theme.css'
